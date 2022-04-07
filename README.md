@@ -8,4 +8,4 @@ This project hopes to provide a simple solution, that does away with proprietory
 Hardware:
 Will use a ESP8266 or ESP32 or similar, as they have wifi, can handle a simple web server and also have lots of IO for connecting devices.
 
-Will be working with a [roller garage door installer near me] (https://chelmsfordrollerdoors.co.uk) for feedback and testing.
+Will be working with a [roller garage door installer near me](https://chelmsfordrollerdoors.co.uk) for feedback and testing.
